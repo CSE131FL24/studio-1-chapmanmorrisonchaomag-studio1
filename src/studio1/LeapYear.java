@@ -16,8 +16,6 @@ public class LeapYear {
 		boolean isLeapYear = (check1 && (check2 || check3));
 
 		System.out.print(isLeapYear);
-		// TODO Auto-generated method stub
-
 	}
 
 }
